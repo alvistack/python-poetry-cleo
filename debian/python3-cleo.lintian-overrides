@@ -1,0 +1,4 @@
+python3-cleo: copyright-without-copyright-notice
+python3-cleo: initial-upload-closes-no-bugs
+python3-cleo: no-manual-page
+python3-cleo: zero-byte-file-in-doc-directory
