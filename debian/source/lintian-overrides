@@ -1,0 +1,4 @@
+python-cleo source: file-without-copyright-information
+python-cleo source: no-debian-changes
+python-cleo source: source-contains-prebuilt-windows-binary
+python-cleo source: source-package-encodes-python-version
